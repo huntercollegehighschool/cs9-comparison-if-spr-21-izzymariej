@@ -28,4 +28,4 @@ elif(number < 0):
   print ("Negative")
 
 else:
-  print ("zero")
+  print ("Zero")
